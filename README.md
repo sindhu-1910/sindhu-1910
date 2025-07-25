@@ -48,7 +48,7 @@ sindhu-vaddeboyina-32528928b)
 ### 🌍 Let's Connect
 
 <p align="center">
-  <a href="www.linkedin.com/in/sindhu-vaddeboyina-32528928b"></a>
+  <a href="linkedinto:sindhuvaddeboyina"><img src="https://img.shields.io/badge/linked-bluestyle=for-the-badge&logo=linkedin"></a>
   <a href="mailto:sindhuvaddeboyina@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
   <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=google-chrome"></a>
 </p>
